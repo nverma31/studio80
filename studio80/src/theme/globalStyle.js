@@ -2,10 +2,10 @@ import { injectGlobal } from 'styled-components';
 
 /* eslint-disable */
 injectGlobal`
-  @import url('https://fonts.googleapis.com/css?family=VT323');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
 
   body {
-    font-family: 'VT323', monospace;
-    font-size: 24px;
+	font-family: 'Nunito', sans-serif;
+    font-size: 18px;
   }
 `
